@@ -1,0 +1,18 @@
+
+        #container {
+            float: left;
+            margin-right: 80px;
+            padding: 0;
+            width: 100%;
+        }
+        
+        #fileUploader {
+            width: 400px;
+        }
+         .thumb {
+            height: 150px;
+            max-width: 150px;
+            border: 1px solid #000;
+            margin: 10px 5px 0 0;
+        }
+        

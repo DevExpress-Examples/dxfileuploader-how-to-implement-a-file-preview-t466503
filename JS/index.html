@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>dxFileUploader - How to implement a file preview</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" type="text/css" href="css/dx.common.css" />
+    <link rel="stylesheet" type="text/css" href="css/dx.light.css" />
+    <link rel="stylesheet" type="text/css" href="index.css"></link>
+    <script type="text/javascript" src="js/jquery-2.2.3.min.js"></script>
+    <script type="text/javascript" src="js/dx.web.js"></script>
+    <script type="text/javascript" src="index.js"></script>
+
+    <style>
+
+    </style>
+</head>
+
+<body>
+    <div>
+        <div>File types:</div>
+        <div class="option" id="accept-option"></div>
+    </div>
+    <div id="container">
+        <div data-options="dxItem: {ratio: 1}">
+            <div id="fileUploader"></div>
+        </div>
+        <div data-options="dxItem: {ratio: 3}">
+            <h1>Preview:</h1>
+            <video style="display:none" id="myMedia" controls>
+            </video>
+            <div id="list">
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>
