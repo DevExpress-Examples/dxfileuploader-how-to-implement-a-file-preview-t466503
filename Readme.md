@@ -4,7 +4,7 @@
 <!-- default file list end -->
 # dxFileUploader - How to implement a file preview 
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t466503)**
+**[[Run Online]](https://codecentral.devexpress.com/t466503/)**
 <!-- run online end -->
 
 
