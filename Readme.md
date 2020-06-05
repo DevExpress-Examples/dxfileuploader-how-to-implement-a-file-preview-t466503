@@ -1,7 +1,3 @@
-<!-- default file list -->
-*Files to look at*:
-
-<!-- default file list end -->
 # dxFileUploader - How to implement a file preview 
 <!-- run online -->
 **[[Run Online]](https://codecentral.devexpress.com/t466503/)**
@@ -12,4 +8,8 @@ This example illustrates how to implement a file preview. The main idea is to de
 
 <br/>
 
-
+<!-- default file list -->
+*Files to look at*:
+* [index.html](./JS/index.html)
+* [index.js](./JS/index.js)
+<!-- default file list end -->
