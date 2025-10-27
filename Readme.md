@@ -1,4 +1,4 @@
-⛔ DEPRECATED. This example is obsolete. Refer to the following topic for more information:
+⛔ DEPRECATED. This example is deprecated. Refer to the following topic for more information:
 
 - https://js.devexpress.com/Documentation/ApiReference/UI_Components/dxFileUploader/Configuration/#onValueChanged
 
